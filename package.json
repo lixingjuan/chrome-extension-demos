@@ -1,0 +1,22 @@
+{
+  "name": "chrome-extension-demos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lixingjuan/chrome-extension-demos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lixingjuan/chrome-extension-demos/issues"
+  },
+  "homepage": "https://github.com/lixingjuan/chrome-extension-demos#readme",
+  "dependencies": {
+    "chrome": "^0.1.0"
+  }
+}
